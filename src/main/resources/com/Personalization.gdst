@@ -166,32 +166,32 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Late Payment Fees Waiver</valueString>
+        <valueString>Simple event detection</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>CC_BALANCE_PAYMENT</valueString>
+        <valueString>STATION</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>LATE_PAYMENT</valueString>
+        <valueString>HIGH_VOLUME</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>CUSTOMER_GOOD_STANDING</valueString>
+        <valueString>SYSTEMS_OPERATIONAL</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>ALERT</valueString>
+        <valueString>WARNING</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>You have been a valued customer, hence the late payment fee has been waived</valueString>
+        <valueString>No major event detected, situation will be monitored</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -204,32 +204,32 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Upgrade for a airline Premium card</valueString>
+        <valueString>Situation upgraded to mainteance recommended</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>CC_TRANSACTION</valueString>
+        <valueString>TRAIN</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>AIRLINE_PURCHASE</valueString>
+        <valueString>PARTS_WARNING</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>OFFER_UPGRADE</valueString>
+        <valueString>POTENTIAL_PROBLEM</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>OFFER</valueString>
+        <valueString>MAINTENANCE_REQUIRED</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Upgrade to Gold Premium Card today and enjoy airline benifits</valueString>
+        <valueString>Potential Incident Detected</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -237,37 +237,37 @@
     <list>
       <value>
         <valueNumeric class="int">3</valueNumeric>
-        <valueString></valueString>
+        <valueString>Incident situation</valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Offer for Balance Transfer</valueString>
+        <valueString></valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>CC_BALANCE_PAYMENT</valueString>
+        <valueString>TRACK</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>MIN_DUE</valueString>
+        <valueString>WATER_DETECTED</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>HIGH_BALANCE_DEBT</valueString>
+        <valueString>MULTIPLE_EVENTS</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>OFFER</valueString>
+        <valueString>ALERT</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Consider making use of our Balance Transfer option today.</valueString>
+        <valueString>Multiple correlated events have been detected in station</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -280,22 +280,22 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Speedy resolution for dissatisfied customer</valueString>
+        <valueString>Presence on track</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>DISPUTES</valueString>
+        <valueString>TRACK</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>CASE_CREATED</valueString>
+        <valueString>’MOVEMENT_DETECTED</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>DISSATISFACTION_QUOTIENT</valueString>
+        <valueString>CRITICAL_SITUATION</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -318,32 +318,32 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Avoid user delinquency before it happens</valueString>
+        <valueString>Avoid potential problem before they happen</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>ONLINE_ACCOUNT</valueString>
+        <valueString>TRAIN</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>PAYMENT_FAILURE</valueString>
+        <valueString>PARTS_WARNING</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>DELINQUENCY_INDEX</valueString>
+        <valueString>MAINTENANCE_REQUIRED</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>REMINDER</valueString>
+        <valueString>POTENTIAL_PROBLEM</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>Late payment because of failed attempt, broadcast to all channels</valueString>
+        <valueString>Train requires immediate maintenance</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
